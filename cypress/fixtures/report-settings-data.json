@@ -1,0 +1,9 @@
+{
+  "reportName": "Ibaa Report",
+  "searchCriteria": ["Job Title", "Location"],
+  "displayFiedls": [
+    { "fieldGroup": "Personal", "field": "First Name" },
+    { "fieldGroup": "Job", "field": "Job Title" },
+    { "fieldGroup": "Salary", "field": "Amount" }
+  ]
+}

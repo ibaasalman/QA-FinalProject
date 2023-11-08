@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "ibaa",
+    "middleName": "m",
+    "lastName": "salman",
+    "password": "admings2fsg1123",
+    "salary": {
+      "salaryComponent": "3000",
+      "salaryAmount": "3000",
+      "currencyId": "EUR",
+      "payFrequencyId": "4",
+      "comment": null,
+      "addDirectDeposit": false
+    }
+  },
+  {
+    "firstName": "ahmad",
+    "middleName": "omar",
+    "lastName": "ghassan",
+    "password": "admsgi12fng123",
+    "salary": {
+      "salaryComponent": "2000",
+      "salaryAmount": "2000",
+      "currencyId": "EUR",
+      "payFrequencyId": "4",
+      "comment": null,
+      "addDirectDeposit": false
+    }
+  },
+  {
+    "firstName": "ali",
+    "middleName": "rami",
+    "lastName": "odeh",
+    "password": "admi1gn2fg123",
+    "salary": {
+      "salaryComponent": "4000",
+      "salaryAmount": "5000",
+      "currencyId": "EUR",
+      "payFrequencyId": "4",
+      "comment": null,
+      "addDirectDeposit": false
+    }
+  }
+]
