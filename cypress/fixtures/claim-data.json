@@ -1,0 +1,9 @@
+{
+    "currencyId": "USD",
+    "remarks": "dummy claim",
+    "expense":{
+        "date": "2023-11-30",
+        "amount": "2000.00",
+        "note": "dummy data"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "firstName": "ahmad",
+  "middleName": "m",
+  "lastName": "mahmoud",
+  "loginDetails": {
+    "username": "ahmad123",
+    "password": "ahmad123",
+    "status": true,
+    "userRoleId": 2,
+    "empNumber": 133
+  }
+}
